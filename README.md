@@ -1,4 +1,4 @@
-# User Management Sysytem
+# User Management System
 Developed a Todo Application with JSP, Servlets, JDBC, and MySQL, featuring CRUD operations and user authentication.
 
 ## Following features
